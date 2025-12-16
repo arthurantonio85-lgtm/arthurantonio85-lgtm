@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá 👋, eu sou Arthur Antônio
 
-<!--
-**arthurantonio85-lgtm/arthurantonio85-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interesse em desenvolvimento e **Qualidade de Software (QA)**
+- 📚 Em aprendizado contínuo
+- 🎯 Foco em boas práticas e projetos reais
+
+---
+
+## 🛠️ Tecnologias
+
+- Gestão em Tecnologia da Informação
+- Testes de Software (Manual / Automação)
+- Testes de API
+- Git & GitHub
+- Metodologias Ágeis
+- Lógica de Programação 
+- Gestão Ágil com Metodologia Scrum 
+- JIRA 
+- Teste API
+
+## 📫 Contato
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/arthur-ant%C3%B4nio-a7b820220/)*
+- 📧 Email: *(arthurantonio85@gmail.com)*
+
+---
+
+
